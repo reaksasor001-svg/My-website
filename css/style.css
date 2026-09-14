@@ -1,0 +1,21 @@
+section {
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.hero-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+.profile-img {
+    width: 280px;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 5px solid #0d6efd;
+}
+.timeline {
+    border-left: 3px solid #970ec1;
+    padding-left: 20px;
+}
